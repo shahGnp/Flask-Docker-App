@@ -5,7 +5,7 @@ Please fork this repo to your GitHub account and clone it to your PC.
 
 I assume you have already installd docker-cli and docker-desktop.
 
-## This project was origianlly taken from [here](https://www.freecodecamp.org/news/how-to-dockerize-a-flask-app/).
+## This project was originally taken from [here](https://www.freecodecamp.org/news/how-to-dockerize-a-flask-app/).
 
 </br>
 <div align="center"><h1>Follow the creator on Twitter</h1></div>
