@@ -5,7 +5,7 @@ WORKDIR /python-app
 # work folder to store
 
 COPY . .
-# copy <all_files> <dir /python-app>
+# copy <all_files> <dir /python-app> copy codebase
 
 RUN pip3 install -r requirements.txt
 # install all the dependencies in requirements.txt
